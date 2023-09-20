@@ -9,6 +9,7 @@ function cardHeader(link){
   img.className = 'w-full h-full'
   img.src = link;
   
+  
   article.prepend(div);
   div.prepend(img);
   body.prepend(article) 

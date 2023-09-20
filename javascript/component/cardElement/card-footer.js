@@ -6,6 +6,10 @@ function footerCard() {
 
 
   footer.id = 'card-footer';
+  footer.className = 'flex border-t items-center mx-5';
+
+
+
   img.src= '../public/games/youtube.png'
   link.href = 'https://www.youtube.com/watch?v=Q19SNS8m7BQ';
 

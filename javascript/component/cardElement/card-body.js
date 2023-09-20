@@ -15,12 +15,15 @@ function cardBody(name, dev, genre, list ){
   title.id = 'title';
   platforms.id = 'platforms';
 
+  body.className = 'mx-5';
+  badge.className = 'mt-5';
+
   article.append(body);
   body.append(badge);
   body.append(title);
   body.append(platforms);
   
-  article.className = 'grid grid-rows-3 gap-2 shadow-lg';
+  article.className = 'grid grid-rows-3 gap-2 shadow-lg radius-1';
   badges(genre);
   titleCard(name, dev);
   platformsComp(list);
