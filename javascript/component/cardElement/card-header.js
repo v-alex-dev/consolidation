@@ -5,6 +5,8 @@ function cardHeader(link){
   const div = document.createElement('div');
   const img = document.createElement('img');
   article.id = 'card';
+  article.className = 'grid grid-rows-3 shadow-lg';
+  img.className = 'w-full h-full'
   img.src = link;
   
   article.prepend(div);

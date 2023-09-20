@@ -1,8 +1,9 @@
 import { badges } from "./badge.js";
+import { platformsComp } from "./platforms.js";
+import { titleCard } from "./title.js";
 
 
-
-function cardBody(name, dev, genre ){
+function cardBody(name, dev, genre, list ){
   const article = document.getElementById('card');
   const badge = document.createElement('div');
   const title = document.createElement('div');
@@ -19,7 +20,10 @@ function cardBody(name, dev, genre ){
   body.append(title);
   body.append(platforms);
   
+  article.className = 'grid grid-rows-3 gap-2 shadow-lg';
   badges(genre);
+  titleCard(name, dev);
+  platformsComp(list);
 }
 
 
