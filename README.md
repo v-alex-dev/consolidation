@@ -5,7 +5,8 @@ Ce projet a pour objectif de créer une collection de jeux en utilisant JavaScri
 
 ## Comment Exécuter
 
-La page est déployer à l'adresse :
+La page est déployer à l'adresse : 
+[https://v-alex-dev.github.io/consolidation/](My-site)
 
 
 ## Structure des Fichiers
