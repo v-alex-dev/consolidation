@@ -16,7 +16,7 @@ const collection = [
     Developpeur: "Creative Assembly",
     releaseYear: 2022,
     picture: "../public/games/TotalWar.webp",
-    genre: ["Tacital wargame", "Strategy"],
+    genre: ["Tactical wargame", "Strategy"],
     platforms: [
       "PlayStation 5",
       "Mac",
@@ -101,7 +101,7 @@ const collection = [
     Developpeur: "PIMPKIM",
     releaseYear: 2021,
     picture: "../public/games/AltF4.webp",
-    genre: ["Platform", "Indepadant", "Adventure"],
+    genre: ["Platform", "Independent", "Adventure"],
     platforms: [
       "PlayStation 5",
       "Playstation 4",

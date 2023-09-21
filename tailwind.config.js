@@ -8,7 +8,7 @@ module.exports = {
     extend: {
       gridTemplateRows: {
         // Simple 8 row grid
-        '3': '2fr 1.5fr 0.5fr',
+        '3': '1fr 1.5fr 0.2fr',
 
         // Complex site-specific row configuration
         'layout': '200px minmax(900px, 1fr) 100px',
