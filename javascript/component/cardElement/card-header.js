@@ -6,7 +6,7 @@ function cardHeader(link){
   const img = document.createElement('img');
   article.id = 'card';
   article.className = 'grid grid-rows-3 shadow-lg';
-  img.className = 'w-full h-full'
+  img.className = 'w-full h-full';
   img.src = link;
   
   

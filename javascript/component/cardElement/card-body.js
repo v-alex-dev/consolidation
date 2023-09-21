@@ -16,7 +16,6 @@ function cardBody(name, dev, genre, list ){
   platforms.id = 'platforms';
 
   body.className = 'mx-5';
-  badge.className = 'mt-5';
 
   article.append(body);
   body.append(badge);

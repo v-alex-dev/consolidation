@@ -8,9 +8,9 @@ function card(){
     let name = element.name;
     let dev = element.Developpeur;
     let genre = element.genre;
-    let plateform = element.platforms
+    let platform = element.platforms
     cardHeader(link);
-    cardBody(name, dev, genre, plateform);
+    cardBody(name, dev, genre, platform);
     footerCard();
   });
 
