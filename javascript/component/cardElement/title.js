@@ -6,8 +6,8 @@ function titleCard(name,dev ){
   title.innerHTML = name;
   paragraph.innerHTML = dev;
 
-  title.classList = 'text-4xl font-bold mb-3';
-  paragraph.className = 'mb-3'
+  title.classList = 'text-4xl font-bold mb-2';
+  paragraph.className = 'mb-3 italic text-slate-500'
   body.append(title);
   body.append(paragraph);
 
