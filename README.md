@@ -31,7 +31,8 @@ Voici un exemple de jeux que vous pouvez trouver dans cette collection :
    - **Developpeur**: Larian Studios
    - **Plateforme**: Playstation 5, Mac, Windows
    - **Genres**: RPG, Adventure, Strategy
-   - **Image**: ![Image du film](./public/games/BG3.webp)
+   - **Image**:
+   - ![Image du film](./public/games/BG3.webp)
 
 
 
