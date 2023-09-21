@@ -32,7 +32,7 @@ Voici un exemple de jeux que vous pouvez trouver dans cette collection :
    - **Plateforme**: Playstation 5, Mac, Windows
    - **Genres**: RPG, Adventure, Strategy
    - **Image**:
-   - ![Image du film](./public/games/BG3.webp)
+   ![Image du film](./public/games/BG3.webp)
 
 
 
