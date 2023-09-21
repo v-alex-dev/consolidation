@@ -21,7 +21,6 @@ La page est déployer à l'adresse :
 ## Licence
 
 Pas de lincense pour le monment
----
 
 ## Collection de Films
 
