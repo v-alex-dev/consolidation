@@ -11,7 +11,7 @@ function card(){
     let platform = element.platforms
     cardHeader(link);
     cardBody(name, dev, genre, platform);
-    footerCard();
+    footerCard(name);
   });
 
 }

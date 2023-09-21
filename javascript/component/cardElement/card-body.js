@@ -22,7 +22,7 @@ function cardBody(name, dev, genre, list ){
   body.append(title);
   body.append(platforms);
   
-  article.className = 'grid grid-rows-3 gap-2 shadow-lg rounded-m';
+
 
   badges(genre);
   titleCard(name, dev);
