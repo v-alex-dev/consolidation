@@ -1,4 +1,4 @@
-const path = "../src/public/games/";
+const path = "./public/games/";
 
 const collection = [
   {
