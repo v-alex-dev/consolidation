@@ -12,7 +12,7 @@ function footerCard(name) {
   deleteButton.className = 'rounded-full bg-red-500 px-2 '
   deleteButton.innerText = 'Delete';
 
-  img.src= '../public/games/youtube.png'
+  img.src= './public/games/youtube.png'
   link.href = 'https://www.youtube.com/watch?v=oHg5SJYRHA0';
 
   link.append(img)
