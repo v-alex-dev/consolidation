@@ -13,7 +13,7 @@ La page est déployer à l'adresse :
 
 - `index.html`: Le fichier HTML principal pour afficher la collection.
 - `gameData.js`: Le fichier JavaScript contenant la collection de films.
--  `Tailwind`: est le framework utiliser pour le stule.
+-  `Tailwind`: est le framework utiliser pour le style.
 
 ## Auteur
 [Vens Alexandre]
